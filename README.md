@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### - 🌱 At the moment, I'm studying a FP about Developer Web in CIPFP Mislata
 
 <!--
 **XimoDAW/XimoDAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
